@@ -1,2 +1,2 @@
 # leetcode-challenges
-Just a repo to put some leetcode challeges and my sollutions
+Just a repo to put some leetcode challeges and my solutions.
